@@ -1,0 +1,33 @@
+body{
+    font-family: Impact,
+    Haettenschweiler,
+    'Arial Narrow Bold',
+    sans-serif;
+}
+button {
+    border-radius: 10%;
+}
+.main {
+    margin: 0 auto;
+    text-align: center;
+    padding: 5% 10%;
+}
+#count-el{
+    font-size: 100px;
+}
+.entries{
+    font-size: 50px;
+}
+
+#increment-btn,
+#reset-btn,
+#save-btn {
+    padding: 10px 15px;
+    font-size: 18px;
+    background: #56ccf2;
+    background: -webkit-linear-gradient(to right, #56ccf2, #2f80ed);
+    background: linear-gradient(to right, #56ccf2, #2f80ed);
+    color: #f1f1f1;
+    border: none;
+    margin: 5px;
+}
